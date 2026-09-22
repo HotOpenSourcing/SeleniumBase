@@ -19,7 +19,6 @@ var
 __pycache__
 
 # Python3 pyvenv
-.env
 .venv
 env/
 venv/
@@ -66,7 +65,6 @@ test-results.xml
 .idea
 .project
 .pydevproject
-.vscode
 
 # Web Drivers
 chromedriver
@@ -199,3 +197,4 @@ assets
 temp
 temp_*/
 node_modules
+config.bat
